@@ -441,7 +441,7 @@ section {
     height: 105vh;
     aspect-ratio: 4 / 3;
     margin-top: 14rem;
-    max-width: 103%;
+    max-width: 97%;
   }
 
   .content h3 {
@@ -487,13 +487,13 @@ section {
 /* Telas pequenas - Smartphones (490px a 590px) */
 @media (min-width: 490px) and (max-width: 590px) {
   .row {
-    margin-left: 10rem;
+    margin-left: 5.1rem;
     max-width: 100%;
     width: 80%;
   }
 
   .title-menu {
-    margin-left: 7rem;
+    margin-left: 1rem;
   }
 
   .content h3 {
@@ -504,20 +504,16 @@ section {
     margin: 5rem 0 0 0;
   }
 
-  .title-about-us {
-    margin-left: 9rem;
-  }
-
   .icons {
     padding-left: 2rem;
   }
 
   .box-container {
-    margin-left: 13rem;
+    margin-left: 8.5rem;
   }
 
   .title-clientes {
-    margin-left: 9rem;
+    margin-left: 1rem;
   }
 
   .home-container {
@@ -526,7 +522,7 @@ section {
     height: 105vh;
     aspect-ratio: 4 / 1;
     margin-top: 14rem;
-    max-width: 114%;
+    max-width: 100%;
   }
 
   .title-address {
@@ -547,7 +543,7 @@ section {
   .row {
     margin: 3rem 5rem;
     width: 43rem;
-    max-width: 100%;
+    max-width: 79%;
   }
 
   .content h3 {
@@ -555,16 +551,14 @@ section {
   }
 
   .title-about-us {
-    text-align: center;
-    margin-left: 9rem;
   }
 
   .title-menu {
-    margin-left: 8rem;
+    margin-left: 1rem;
   }
 
   .box-container {
-    margin-left: 11rem;
+    margin-left: 8.5rem;
     width: 32rem;
   }
 
@@ -574,7 +568,7 @@ section {
     height: 105vh;
     aspect-ratio: 4 / 1;
     margin-top: 14rem;
-    max-width: 120%;
+    max-width: 96%;
   }
 
   .menu .title h2 {
@@ -585,7 +579,7 @@ section {
   .title-clientes {
     text-align: center;
     font-size: 3.2rem;
-    margin-left: 10rem;
+    margin-left: 1rem;
   }
 
   .title-address {
@@ -606,9 +600,9 @@ section {
 /* Smartphones menores (até 365px) */
 @media (min-width: 330px) and (max-width: 440px) {
   .row {
-    margin-left: 8rem;
+    margin-left: 4rem;
     max-width: 100%;
-    width: 335px;
+    width: 31rem;
   }
 
   .cafe-preto,
@@ -627,14 +621,13 @@ section {
   }
 
   .title-menu {
-    margin-left: 13rem;
     font-size: 3rem;
     margin-top: 7rem;
     height: 5rem;
   }
 
   .box-container {
-    margin: 0 11rem;
+    margin: 0 5rem;
     width: 77%;
   }
 
@@ -644,11 +637,11 @@ section {
     height: 105vh;
     aspect-ratio: 4 / 1;
     margin-top: 14rem;
-    max-width: 51rem;
+    width: 103%;
   }
 
   .title-clientes {
-    margin-left: 12rem;
+    margin-left: 2rem;
     font-size: 3rem;
   }
 
@@ -656,7 +649,7 @@ section {
     display: flex;
     font-size: 3rem;
     margin-top: 5rem;
-    margin-left: 14rem;
+    margin-left: 2rem;
   }
 
   .title-address span {
@@ -664,23 +657,24 @@ section {
   }
 
   .title-about-us {
-    margin-left: 13rem;
     font-size: 3rem;
+    margin-left: 5rem;
   }
 
   .footer .share {
-    margin-left: 13rem;
+    margin-left: 2rem;
   }
 
   iframe {
-    margin-left: 15rem;
+    margin-left: 1rem;
+    width: 35rem;
   }
 }
 
 @media (max-width: 340px) {
   .row {
     margin-left: 4.5rem;
-    width: 35rem;
+    width: 31rem;
   }
 
   .cafe-preto,
@@ -706,7 +700,7 @@ section {
 
   .title-menu {
     display: flex;
-    margin-left: 13rem;
+    margin-left: 11rem;
   }
 
   .title-menu span {
@@ -715,7 +709,7 @@ section {
 
   .title-about-us {
     display: flex;
-    margin-left: 15rem;
+    margin-left: 10rem;
   }
 
   .title-about-us span {
@@ -724,12 +718,12 @@ section {
 
   .box-container {
     background-size: contain;
-    margin-left: 7.3rem;
+    margin-left: 5.5rem;
   }
 
   .title-clientes {
     display: flex;
-    margin-left: 8.5rem;
+    margin-left: 8.2rem;
   }
 
   .title-clientes span {
@@ -761,7 +755,7 @@ section {
     height: 105vh;
     aspect-ratio: 4 / 1;
     margin-top: 14rem;
-    max-width: 140%;
+    max-width: 122%;
   }
 }
 

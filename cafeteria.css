@@ -670,8 +670,8 @@ section {
 
 @media (max-width: 340px) {
   .row {
-    margin-left: 4.5rem;
-    width: 31rem;
+    margin-left: 5.3rem;
+    width: 29rem;
   }
 
   .cafe-preto,
@@ -720,7 +720,7 @@ section {
 
   .title-clientes {
     display: flex;
-    margin-left: 8.2rem;
+    margin-left: 7.2rem;
   }
 
   .title-clientes span {
@@ -728,12 +728,12 @@ section {
   }
 
   .footer .share {
-    margin-left: 16rem;
+    margin-left: 7rem;
   }
 
   .title-address {
     display: flex;
-    margin-left: 13rem;
+    margin-left: 10rem;
   }
 
   .title-address span {
@@ -741,7 +741,8 @@ section {
   }
 
   iframe {
-    margin-left: 13rem;
+    margin-left: 7rem;
+    width: 37rem;
   }
 }
 
@@ -756,7 +757,7 @@ section {
   }
 }
 
-@media (max-width: 280px) {
+@media (min-width: 280px) and (max-width: 240px) {
   .row {
     margin-left: 3rem;
     width: 29rem;
@@ -815,5 +816,10 @@ section {
     font-size: 3rem;
     margin-top: 5rem;
     margin-left: 12rem;
+  }
+
+  iframe {
+    margin-left: 3rem;
+    width: 8rem;
   }
 }
